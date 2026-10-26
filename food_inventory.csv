@@ -1,0 +1,26 @@
+food_id,provider_id,food_name,category,quantity,unit,received_date,expiry_date
+101,1,Vegetable Rice,Prepared Meals,24,kg,2026-09-01,2026-09-02
+102,1,Fruit Salad,Fresh Produce,12,kg,2026-09-01,2026-09-02
+103,2,Bananas,Fresh Produce,35,kg,2026-09-02,2026-09-04
+104,2,Bread Loaves,Bakery,18,kg,2026-09-02,2026-09-03
+105,3,Whole Wheat Bread,Bakery,16,kg,2026-09-03,2026-09-04
+106,3,Vegetable Puffs,Bakery,10,kg,2026-09-03,2026-09-04
+107,4,Lentil Curry,Prepared Meals,28,kg,2026-09-04,2026-09-05
+108,4,Steamed Rice,Prepared Meals,30,kg,2026-09-04,2026-09-05
+109,5,Tomatoes,Fresh Produce,42,kg,2026-09-05,2026-09-07
+110,5,Spinach,Fresh Produce,20,kg,2026-09-05,2026-09-06
+111,6,Idli,Prepared Meals,26,kg,2026-09-06,2026-09-07
+112,6,Sambar,Prepared Meals,18,kg,2026-09-06,2026-09-07
+113,7,Cupcakes,Bakery,14,kg,2026-09-07,2026-09-08
+114,7,Cookies,Bakery,22,kg,2026-09-07,2026-09-10
+115,8,Potatoes,Fresh Produce,38,kg,2026-09-08,2026-09-11
+116,8,Carrots,Fresh Produce,24,kg,2026-09-08,2026-09-10
+117,9,Vegetable Biryani,Prepared Meals,32,kg,2026-09-09,2026-09-10
+118,9,Chapati,Prepared Meals,20,kg,2026-09-09,2026-09-10
+119,10,Lemon Rice,Prepared Meals,25,kg,2026-09-10,2026-09-11
+120,10,Mixed Vegetables,Fresh Produce,30,kg,2026-09-10,2026-09-12
+121,1,Paneer Wraps,Prepared Meals,16,kg,2026-09-11,2026-09-12
+122,2,Yogurt Cups,Dairy,15,kg,2026-09-11,2026-09-13
+123,4,Fresh Salad,Fresh Produce,17,kg,2026-09-12,2026-09-13
+124,6,Upma,Prepared Meals,21,kg,2026-09-12,2026-09-13
+125,9,Sweet Pongal,Prepared Meals,13,kg,2026-09-13,2026-09-14

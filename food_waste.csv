@@ -1,0 +1,31 @@
+waste_id,food_id,waste_quantity,waste_date,waste_reason
+1001,101,4,2026-09-02,Overproduction
+1002,102,2,2026-09-02,Spoilage
+1003,103,5,2026-09-04,Overripe
+1004,104,3,2026-09-03,Expired
+1005,105,2,2026-09-04,Stale
+1006,106,1,2026-09-04,Unsold stock
+1007,107,6,2026-09-05,Overproduction
+1008,108,5,2026-09-05,Overproduction
+1009,109,8,2026-09-07,Spoilage
+1010,110,3,2026-09-06,Wilted
+1011,111,4,2026-09-07,Overproduction
+1012,112,2,2026-09-07,Overproduction
+1013,113,2,2026-09-08,Unsold stock
+1014,114,3,2026-09-10,Unsold stock
+1015,115,7,2026-09-11,Sprouting
+1016,116,4,2026-09-10,Spoilage
+1017,117,5,2026-09-10,Overproduction
+1018,118,3,2026-09-10,Overproduction
+1019,119,4,2026-09-11,Overproduction
+1020,120,5,2026-09-12,Spoilage
+1021,121,2,2026-09-12,Overproduction
+1022,122,3,2026-09-13,Expired
+1023,123,2,2026-09-13,Wilted
+1024,124,3,2026-09-13,Overproduction
+1025,125,1,2026-09-14,Unsold stock
+1026,103,2,2026-09-05,Damaged packaging
+1027,109,3,2026-09-08,Damaged stock
+1028,117,2,2026-09-11,Customer returns
+1029,101,1,2026-09-03,Quality issue
+1030,115,2,2026-09-12,Spoilage
